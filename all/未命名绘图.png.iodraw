@@ -116,7 +116,7 @@
           <mxGeometry x="250" y="772" width="77" height="27" as="geometry" />
         </mxCell>
         <mxCell id="ZxejcYaj7Mt5jUJoFLMb-55" value="一致性正则化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="335.05" y="772" width="77" height="27" as="geometry" />
+          <mxGeometry x="350.01" y="772" width="77" height="27" as="geometry" />
         </mxCell>
         <mxCell id="ZxejcYaj7Mt5jUJoFLMb-59" value="D4PG" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="440" y="772" width="90" height="27" as="geometry" />
@@ -167,7 +167,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CwtJsHsHnUKGzUjnTvOn-1" value="掩码解码器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="163" y="772" width="77" height="27" as="geometry" />
+          <mxGeometry x="106" y="772" width="77" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
