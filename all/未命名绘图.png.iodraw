@@ -110,10 +110,10 @@
           <mxGeometry x="458" y="709" width="167.01" height="33" as="geometry" />
         </mxCell>
         <mxCell id="ZxejcYaj7Mt5jUJoFLMb-53" value="掩码解码器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="106" y="772" width="77" height="27" as="geometry" />
+          <mxGeometry x="163" y="772" width="77" height="27" as="geometry" />
         </mxCell>
         <mxCell id="ZxejcYaj7Mt5jUJoFLMb-54" value="噪声增强" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="192" y="772" width="77" height="27" as="geometry" />
+          <mxGeometry x="250" y="772" width="77" height="27" as="geometry" />
         </mxCell>
         <mxCell id="ZxejcYaj7Mt5jUJoFLMb-55" value="一致性正则化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="335.05" y="772" width="77" height="27" as="geometry" />
