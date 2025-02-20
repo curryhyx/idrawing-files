@@ -110,13 +110,13 @@
           <mxGeometry x="475.99" y="709" width="167.01" height="33" as="geometry" />
         </mxCell>
         <mxCell id="ZxejcYaj7Mt5jUJoFLMb-53" value="掩码解码器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="186" y="772" width="77" height="27" as="geometry" />
+          <mxGeometry x="191" y="772" width="77" height="27" as="geometry" />
         </mxCell>
         <mxCell id="ZxejcYaj7Mt5jUJoFLMb-54" value="噪声增强" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="266.37" y="772" width="77" height="27" as="geometry" />
+          <mxGeometry x="276.01" y="772" width="77" height="27" as="geometry" />
         </mxCell>
         <mxCell id="ZxejcYaj7Mt5jUJoFLMb-55" value="一致性正则化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="350.01" y="772" width="77" height="27" as="geometry" />
+          <mxGeometry x="361.5" y="772" width="77" height="27" as="geometry" />
         </mxCell>
         <mxCell id="ZxejcYaj7Mt5jUJoFLMb-59" value="D4PG" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="458" y="772" width="90" height="27" as="geometry" />
