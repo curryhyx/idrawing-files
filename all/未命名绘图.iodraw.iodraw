@@ -173,7 +173,7 @@
           <mxGeometry x="104" y="772" width="77" height="27" as="geometry" />
         </mxCell>
         <mxCell id="xVXFc3qqY4RRIzzTxOyg-1" value="基于传统的分割方法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="458" y="340" width="150" height="27" as="geometry" />
+          <mxGeometry x="458" y="430" width="150" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
