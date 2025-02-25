@@ -406,7 +406,7 @@
         <mxCell id="UaT6t4s6rfl-eLQwa2FD-74" value="数据增强相关技术" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="284.37" y="548" width="100" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="UaT6t4s6rfl-eLQwa2FD-75" value="优化方法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="UaT6t4s6rfl-eLQwa2FD-75" value="&lt;font face=&quot;Helvetica&quot;&gt;优化方法&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="404.5" y="548" width="100" height="27" as="geometry" />
         </mxCell>
         <mxCell id="UaT6t4s6rfl-eLQwa2FD-76" value="实验环境和数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Times New Roman;" vertex="1" parent="1">
