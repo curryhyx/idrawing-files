@@ -40,7 +40,7 @@
         <mxCell id="ZxejcYaj7Mt5jUJoFLMb-10" value="主要不足" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="458" y="290" width="150" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="ZxejcYaj7Mt5jUJoFLMb-11" value="视觉强化学习泛化优化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;" parent="1" vertex="1">
+        <mxCell id="ZxejcYaj7Mt5jUJoFLMb-11" value="基于传统的分割方法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="458" y="340" width="150" height="27" as="geometry" />
         </mxCell>
         <mxCell id="ZxejcYaj7Mt5jUJoFLMb-13" value="连续控制强化学习算法优化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;" parent="1" vertex="1">
