@@ -31,10 +31,8 @@
         <mxCell id="ZxejcYaj7Mt5jUJoFLMb-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;fontFamily=Helvetica;" parent="1" source="ZxejcYaj7Mt5jUJoFLMb-9" target="ZxejcYaj7Mt5jUJoFLMb-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZxejcYaj7Mt5jUJoFLMb-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;fontFamily=Helvetica;" parent="1" source="ZxejcYaj7Mt5jUJoFLMb-9" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="458" y="407.5" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="ZxejcYaj7Mt5jUJoFLMb-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;fontFamily=Helvetica;" parent="1" source="ZxejcYaj7Mt5jUJoFLMb-9" target="ZxejcYaj7Mt5jUJoFLMb-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZxejcYaj7Mt5jUJoFLMb-9" value="国内外研究现状" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="283" y="367" width="100" height="27" as="geometry" />
@@ -42,8 +40,11 @@
         <mxCell id="ZxejcYaj7Mt5jUJoFLMb-10" value="主要不足" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="458" y="290" width="150" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="ZxejcYaj7Mt5jUJoFLMb-11" value="&#xa;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&amp;nbsp;&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;" parent="1" vertex="1">
+        <mxCell id="ZxejcYaj7Mt5jUJoFLMb-11" value="基于传统的分割方法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="458" y="340" width="150" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxejcYaj7Mt5jUJoFLMb-13" value="基于深度学习的分割方法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="458" y="394" width="150" height="27" as="geometry" />
         </mxCell>
         <mxCell id="ZxejcYaj7Mt5jUJoFLMb-22" value="&#xa;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-size: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&amp;nbsp;&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#F8CECC;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="96.75" y="461" width="593.25" height="130" as="geometry" />
